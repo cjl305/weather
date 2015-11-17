@@ -1,0 +1,22 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background: url(weather_background2.jpg);
+  background-size: 150%;
+  margin: 30px auto;
+}
+
+.button {
+  width: 500px;
+  margin: 30px auto;
+ }
+
+.weather-report {
+	color: white;
+	font-size: 12pt;
+}
+
+h4 {
+	font-weight: bold;
+	color: white;
+	font-size: 36pt;
